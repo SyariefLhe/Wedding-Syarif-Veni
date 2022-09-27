@@ -2,7 +2,3 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'am+SyariefLhe;Deep+Learning+Developer;Always+Learning+New+Think" alt="Typing SVG" /></a>
 </p>
-
-<p align="center"> 
-  <img src="images/Signal.gif" alt="Sample signal" width="70%" height="70%">
-</p>
