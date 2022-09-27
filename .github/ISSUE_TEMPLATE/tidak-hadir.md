@@ -1,7 +1,7 @@
 ---
-name: TIdak Hadir
-about: Terimakasih
-title: Tidak Hadir
+name: Tidak Hadir
+about: Doakan kami di acara pernikahan kami
+title: Namamu
 labels: Tidak Hadir
 assignees: ''
 
