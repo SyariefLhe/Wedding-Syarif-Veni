@@ -1,7 +1,7 @@
 ---
 name: Hadir
-about: Terimakasih
-title: Hadir
+about: Kami mengundang anda untuk hadir di acara pernikahan kami
+title: Namamu
 labels: Hadir
 assignees: ''
 
