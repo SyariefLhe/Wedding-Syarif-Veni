@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm SyariefLhe <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=500&height=50&lines=Hello%2C+I'am+SyariefLhe;Deep+Learning+Developer;Always+Learning+New+Think" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Hello%2C+I'am+SyariefLhe;Deep+Learning+Developer;Always+Learning+New+Think" alt="Typing SVG"&center=true&width=500&height=50/></a>
 </p>
 
 <!--
